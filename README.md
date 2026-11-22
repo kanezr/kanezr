@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**kanezr/kanezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eefi here, I like to code but I'm horrible at it. 
+i'm trying to learn to actually code with no AI, i know a bit of luau due to roblox.
 
-Here are some ideas to get you started:
+Interested to learn:
+C and C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fun fact: i made my first website when i was 13
+
+## Current projects
+[eefiOMSI](https://github.com/kanezr/eefiOMSI): a fork of openOMSI w/ better performance, better physics and cigarette.
+PoVer: a verification bot for polytoria w/ lot of features.
+
+## Contact
+You can contact me through this email: discordkanez@gmail.com
