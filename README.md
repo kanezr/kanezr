@@ -14,4 +14,4 @@ fun fact: i made my first website when i was 13
 - PoVer: a verification bot for polytoria w/ lot of features.
 
 ## Contact
-You can contact me through this email: discordkanez@gmail.com
+You can contact me through this email: discordkanez(at)gmail.com
