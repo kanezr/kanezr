@@ -2,7 +2,7 @@
 
 eefi here, I like to code but I'm horrible at it. 
 
-i'm trying to learn to actually code with no AI, i know a bit of luau due to roblox.
+i'm trying to learn to actually code with no AI, i know html and css and a bit of luau and python.
 
 Interested to learn:
 C and C++
