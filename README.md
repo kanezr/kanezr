@@ -2,10 +2,11 @@
 
 eefi here, I like to code but I'm horrible at it. 
 
-i'm trying to learn to actually code with no AI, i know html and css and a bit of luau and python.
+i'm trying to learn to actually code with no AI.
+i do know html and css and a bit of luau and python.
 
 Interested to learn:
-C and C++
+C or C++
 
 fun fact: i made my first website when i was 13
 
